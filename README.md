@@ -9,3 +9,9 @@ A Bash script that searches chemical elements using PostgreSQL.
 ./element.sh Hydrogen
 
 The database stores element information, properties, and element types.
+
+## Database Tables
+
+- elements
+- properties
+- types
